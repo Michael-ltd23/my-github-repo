@@ -1,0 +1,3 @@
+*.pyc 			# ignoruj vsechny soubory s priponou .pyc
+.idea/			# ignoruj vsechny soubory v adresari .idea/
+
